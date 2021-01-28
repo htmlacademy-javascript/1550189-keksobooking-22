@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Вадим Фролов](https://up.htmlacademy.ru/javascript/22/user/1550189).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Бабченко](https://htmlacademy.ru/profile/babtshe).
 
 ---
 
