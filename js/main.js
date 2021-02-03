@@ -39,7 +39,7 @@ const getRandomIntInclusive = function (min, max) {
 }
 
 getRandomIntInclusive(0, 2)
-console.log(getRandomIntInclusive(0, 2));
+
 
 const getRandomMapCoordination = function (min, max, coordinate = 1) {
   if (max > min && min >= 0) {
@@ -49,5 +49,5 @@ const getRandomMapCoordination = function (min, max, coordinate = 1) {
   throw new Error('Invalid Variable value');
 }
 
-getRandomMapCoordination(0, 3);
-console.log(getRandomMapCoordination(0, 3, 1));
+getRandomMapCoordination(0, 10);
+
